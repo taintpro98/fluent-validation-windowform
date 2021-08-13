@@ -1,0 +1,13 @@
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.csproj.AssemblyReference.cache
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent_validation_windowform.Dashboard.resources
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent_validation_windowform.Properties.Resources.resources
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.csproj.GenerateResource.cache
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.csproj.CoreCompileInputs.cache
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\bin\Debug\fluent-validation-windowform.exe.config
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\bin\Debug\fluent-validation-windowform.exe
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\bin\Debug\fluent-validation-windowform.pdb
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\bin\Debug\FluentValidation.dll
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\bin\Debug\FluentValidation.xml
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.csproj.CopyComplete
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.exe
+C:\Users\bruno.nguyen\Documents\bruno\public\self-training\fluent-validation-windowform\obj\Debug\fluent-validation-windowform.pdb
